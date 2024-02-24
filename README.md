@@ -19,6 +19,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## 📊 GitHub Stats
+
 <div style="display: flex; justify-content: center;">
     <div>
         ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RevRev30&theme=dark&hide_border=false)
@@ -26,9 +27,10 @@
     <div>
         ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevRev30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
     </div>
-    <div>
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevRev30&theme=dark&hide_border=false&layout=compact)
-    </div>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevRev30&theme=dark&hide_border=false&layout=compact)
 </div>
 
 ## ✍️ Random Dev Quote
