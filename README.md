@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevRev30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RevRev30&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevRev30&theme=dark&hide_border=false&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RevRev30&theme=dark&hide_border=false)
 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
