@@ -19,9 +19,7 @@
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## 📊 GitHub Stats
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevRev30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RevRev30&theme=dark&hide_border=false)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevRev30&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevRev30&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RevRev30&theme=dark&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevRev30&theme=dark&hide_border=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
